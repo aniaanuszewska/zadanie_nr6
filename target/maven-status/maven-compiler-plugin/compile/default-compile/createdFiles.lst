@@ -1,0 +1,8 @@
+client\WeatherClient.class
+domain\OpenWeatherMapModel.class
+domain\Wind.class
+domain\WeatherResponse.class
+rest\ApplicationConfig.class
+domain\Clouds.class
+domain\MainModel.class
+rest\Weather.class
